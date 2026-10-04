@@ -1,0 +1,13 @@
+llama-index-core>=0.12
+llama-index-vector-stores-qdrant
+qdrant-client
+llama-index-embeddings-huggingface
+sentence-transformers
+llama-index-llms-anthropic
+llama-index-llms-groq
+gradio>=5,<6
+python-dotenv
+pypdf
+requests
+beautifulsoup4
+youtube-transcript-api>=0.6

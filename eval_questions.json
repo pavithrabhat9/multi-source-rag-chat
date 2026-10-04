@@ -1,0 +1,12 @@
+[
+  {"question": "Who founded Lumora Labs and where?", "expected_source": "lumora_handbook.txt", "expected_keywords": ["marta silva", "lisbon"]},
+  {"question": "How much does the Lumora Lamp X2 cost?", "expected_source": "lumora_handbook.txt", "expected_keywords": ["49"]},
+  {"question": "How long does the X2 battery last?", "expected_source": "lumora_handbook.txt", "expected_keywords": ["12 hours"]},
+  {"question": "How long is the warranty on Lumora lamps?", "expected_source": "lumora_handbook.txt", "expected_keywords": ["24"]},
+  {"question": "What time does Orchard Cafe open?", "expected_source": "orchard_cafe.txt", "expected_keywords": ["8"]},
+  {"question": "What is the Wi-Fi password at the cafe?", "expected_source": "orchard_cafe.txt", "expected_keywords": ["applepie42"]},
+  {"question": "How high is Mount Kelvar?", "expected_source": "mount_kelvar.txt", "expected_keywords": ["3412"]},
+  {"question": "When is the best season to hike Mount Kelvar?", "expected_source": "mount_kelvar.txt", "expected_keywords": ["june", "september"]},
+  {"question": "Where is camping allowed on Mount Kelvar?", "expected_source": "mount_kelvar.txt", "expected_keywords": ["lake orin"]},
+  {"question": "Who won the 2018 football world cup?", "expected_source": null, "expected_keywords": ["could not find"]}
+]
