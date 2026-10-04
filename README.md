@@ -78,3 +78,7 @@ Note: after a re-upload of the same file, the old chunks are replaced (and chunk
 - Qdrant local mode allows one process at a time – close the app before running `eval.py`.
 - Eval "answer matches" is a simple keyword check, not an AI judge – easy to understand, but strict.
 - Scanned PDFs (images) have no text and are rejected with a friendly message.
+
+## License
+
+This project is shared **for learning purposes and personal projects only**. You are free to read, run, modify and experiment with the code for your own learning and personal use. It is provided "as is", without warranty of any kind. For any commercial use, please ask the author first.
